@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Molvi Riaz Karyana Store",
+  "short_name": "Riaz Store",
+  "description": "مولوی ریاض کریانہ اسٹور پروڈکٹ ریکارڈ",
+  "lang": "ur",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123d2b",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
